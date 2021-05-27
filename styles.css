@@ -22,6 +22,11 @@
   transform: translate(-50%, -50%);
 }
 #pin i {
-  color: red;
-  font-size: xx-large;
+  color: blue;
+  font-size: x-large;
+}
+
+.ol-zoom,
+.ol-attribution {
+  display: none;
 }
